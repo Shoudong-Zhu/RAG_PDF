@@ -1,0 +1,15 @@
+langchain
+groq
+llama-hub
+chroma
+sentence-transformers
+python-dotenv
+llama_parse
+langchain-community
+nest-asyncio
+langchain_pinecone
+pinecone
+h5py
+protobuf==3.20.3
+langchain_text_splitters
+langchain_openai
